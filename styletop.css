@@ -89,6 +89,10 @@ html, body {
   }
 }
 
+.col-md-6 {
+float: right;
+}
+	
 .clear {
   clear: both;
   display: block;
